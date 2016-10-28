@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "accordian-webpart-client-side-solution",
+    "id": "04da6f52-2c6d-4425-8155-0f0f5cb9d960",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/accordian-webpart.spapp"
+  }
+}

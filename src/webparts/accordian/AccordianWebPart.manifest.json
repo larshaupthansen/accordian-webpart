@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "fc850b20-82bc-41e6-8ae4-b3a754a11d8e",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "fc850b20-82bc-41e6-8ae4-b3a754a11d8e",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Accordian" },
+    "description": { "default": "Simple Accordian for O365 Modern Pages¨" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Accordian"
+    }
+  }]
+}

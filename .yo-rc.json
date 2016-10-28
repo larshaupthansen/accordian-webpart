@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "accordian-webpart",
+    "libraryId": "04da6f52-2c6d-4425-8155-0f0f5cb9d960",
+    "framework": "react"
+  }
+}

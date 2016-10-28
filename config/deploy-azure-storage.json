@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "accordian-webpart",
+  "accessKey": "<!-- ACCESS KEY -->"
+}
